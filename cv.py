@@ -1,10 +1,10 @@
 # Here you can place your constant variables
 # Like chat_ids, quotes, buttons, ...
 
-Id_Admins = [74174159,]
+Id_Admins = [1160089400,]
 
-LOGOS = ['logo.png', 'logo1.png']
+LOGOS = ['KDramas Urdu2.png']
 
 width_scale = 10
 
-Caption_Template ="%s\n\n🍊<a href='t.me/ptbir'>ptbir</a>"
+Caption_Template ="%s\n\n🍊<a href='t.me/hbhammaddyar'>HB Hammad Dyar</a>"
